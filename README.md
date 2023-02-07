@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Hebaallah61.Hebaallah61)
 [![Github](https://img.shields.io/github/followers/Hebaallah61?label=Follow&style=social)](https://github.com/Hebaallah61)
 
-- ## I’m an Software Engineer graduated from FCIH Helwan university CS department
+- ## I’m a Software Engineer graduated from FCIH Helwan university CS department
 - 👀 I’m interested in programming, Deep learning and AI
 - 🌱 I’m currently learning .Net   
 - 📫 My Email: hebamenshawe@gmail.com if you want to ask me about anything

@@ -19,11 +19,11 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c#.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.integrationdevelopers.com/media/2021/05/csharp-color.jpg" alt="C#" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.raddevelopers.com/wp-content/uploads/2016/01/c-lang.png" alt="c" height="40" style="vertical-align:top; margin:4px">
+<img src="https://webforpc.com/wp-content/uploads/2018/03/c-plus-plus-program-logo-image-200x225.png" alt="c++" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://th.bing.com/th/id/R.45a33fc558faf7b5343b144f2efa9468?rik=FBiUhbkRkQ2eNQ&riu=http%3a%2f%2fjsxcode.com%2fcode%2fimg%2flogo_html.png&ehk=fH8GgrRgo2wM5KaxXwlJGgc%2bWjIWakayJWREjXbzVLg%3d&risl=&pid=ImgRaw&r=0" alt="html" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://avatars1.githubusercontent.com/u/26101386?s=400&v=4 " alt="css" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Hebaallah61.Hebaallah61)

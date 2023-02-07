@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software engineering 
 - 📫 hebamenshawe@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebaallah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebaallah61&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hebaallah&theme=codeSTACKr&show_icons=true)
 

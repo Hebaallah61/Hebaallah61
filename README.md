@@ -5,7 +5,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hebaallah&theme=codeSTACKr&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebaallah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebaallah&layout=default)](https://github.com/hebaallah61/github-readme-stats)
 
 <!---
 Hebaallah61/Hebaallah61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

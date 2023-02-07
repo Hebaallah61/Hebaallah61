@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Heba Allah
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning software engineering 
-- 📫 hebamenshawe@gmail.com
+- ## 👋 Hi, I’m @Hebatullah Ahmed but you can call me Heba
+![](https://visitor-badge.laobi.icu/badge?page_id=Hebaallah61.Hebaallah61)
+[![Github](https://img.shields.io/github/followers/Hebaallah61?label=Follow&style=social)](https://github.com/Hebaallah61)
+
+- ## I’m an Software Engineer graduated from FCIH Helwan university CS department
+- 👀 I’m interested in programming, Deep learning and AI
+- 🌱 I’m currently learning .Net   
+- 📫 My Email: hebamenshawe@gmail.com if you want to ask me about anything
 
 ## ✉️ Find me on:
 
@@ -26,8 +30,7 @@
  <img src="https://avatars1.githubusercontent.com/u/26101386?s=400&v=4 " alt="css" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Hebaallah61.Hebaallah61)
-[![Github](https://img.shields.io/github/followers/Hebaallah61?label=Follow&style=social)](https://github.com/Hebaallah61)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebaallah61&theme=tokyonight&langs_count=10&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hebaallah&theme=codeSTACKr&show_icons=true)
 

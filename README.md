@@ -9,7 +9,7 @@
 <p align="center">
  <a href="https://github.com/Hebaallah61" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/github.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/hebaallah/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="hebamenshawe@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="hebamenshawe@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
@@ -28,10 +28,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Hebaallah61.Hebaallah61)
 [![Github](https://img.shields.io/github/followers/Hebaallah61?label=Follow&style=social)](https://github.com/Hebaallah61)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hebaallah&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebaallah61&theme=tokyonight)
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hebaallah&theme=codeSTACKr&show_icons=true)
 
 

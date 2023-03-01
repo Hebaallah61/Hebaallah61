@@ -33,10 +33,13 @@
  <img src="https://th.bing.com/th/id/R.45a33fc558faf7b5343b144f2efa9468?rik=FBiUhbkRkQ2eNQ&riu=http%3a%2f%2fjsxcode.com%2fcode%2fimg%2flogo_html.png&ehk=fH8GgrRgo2wM5KaxXwlJGgc%2bWjIWakayJWREjXbzVLg%3d&risl=&pid=ImgRaw&r=0" alt="html" height="40" style="vertical-align:top; margin:4px">
  <img src="https://avatars1.githubusercontent.com/u/26101386?s=400&v=4 " alt="css" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png " alt="sass" height="40" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/57576774/222043169-e4f7b37b-6c35-4126-a75d-78f042a3fd02.png
- " alt="BootStrap" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/57576774/222043169-e4f7b37b-6c35-4126-a75d-78f042a3fd02.png](https://th.bing.com/th?id=OSK.68c1a12a01c9149d1cc17a01bf32bc26&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM" alt="BootStrap" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hebaallah61&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebaallah61&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---------------
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebaallah61&theme=tokyonight&langs_count=10&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hebaallah&theme=codeSTACKr&show_icons=true)

@@ -2,25 +2,23 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Hebaallah61.Hebaallah61)
 [![Github](https://img.shields.io/github/followers/Hebaallah61?label=Follow&style=social)](https://github.com/Hebaallah61)
 
-<h2 align="left">I’m a Software Engineer who graduated from FCIH Helwan University CS department</h2>
+###
+
+<h4 align="left"> 🌱 I’m currently a .NET/Angular Full Stack Developer</h4>
 
 ###
 
-<h4 align="left">I’m currently a .NET/Angular Full Stack Developer</h4>
+<h4 align="left"> 👀 I’m interested in programming, Deep learning, and AI</h4>
 
 ###
 
-<h4 align="left">I’m interested in programming, Deep learning, and AI</h4>
+<h4 align="left"> 📫 My Email: hebamenshawe@gmail.com if you want to ask me about anything</h4>
 
 ###
-
-<h4 align="left">My Email: hebamenshawe@gmail.com if you want to ask me about anything</h4>
-
-###
-
+## ✉️ Find me on:
 <div align="center">
  <a href="https://www.linkedin.com/in/hebaallah/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
-  <a href="https://www.facebook.com/profile.php?id=100005288883193"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+ <a href="https://github.com/Hebaallah61" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/d20181791a7d3716b202e8c3549c20cd5d435bb6bbb2556fbcf99f7841f48d5e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383836362e706e67" alt="github" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.hackerrank.com/hebamenshawe"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
  <a href="https://www.facebook.com/profile.php?id=100005288883193"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
 </div>

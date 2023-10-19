@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I’m+Hebatullah+Ahmed+but+you+can+call+me+Heba+🧐+:handshake:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I’m+Hebatullah+Ahmed;but+you+can+call+me+Heba+🧐+:handshake:)](https://git.io/typing-svg)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Hebaallah61.Hebaallah61)
 [![Github](https://img.shields.io/github/followers/Hebaallah61?label=Follow&style=social)](https://github.com/Hebaallah61)
 

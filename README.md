@@ -102,13 +102,6 @@
 
 <!---[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hebaallah61&count_private=true&theme=codeSTACKr&show_icons=true)--->
 
-
------
-
-![snake gif](https://github.com/Hebaallah61/Hebaallah61/blob/output/github-contribution-grid-snake2.svg)
-
------
-
 <!---
 Hebaallah61/Hebaallah61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

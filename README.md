@@ -97,12 +97,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hebaallah61&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebaallah61&langs_count=10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hebaallah61&count_private=true&theme=codeSTACKr&show_icons=true)--->
 
-<!---
-Hebaallah61/Hebaallah61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
